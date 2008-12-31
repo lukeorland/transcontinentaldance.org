@@ -1,0 +1,6 @@
+to make the rounded corners, used the website
+http://www.roundedcornr.com
+
+on the index page, used corner radius 8px.
+
+on the rest of the pages, used corner radius 12px.
