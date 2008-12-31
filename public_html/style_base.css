@@ -151,15 +151,15 @@ p.DonatePage {
 
 .VideoContent {
 	float: left;
+	margin-bottom: 100px;
 	}
 .VideoContentLeft {
 	float: left;
 	width: 400px;
-	margin-right: 10px;
-	margin-bottom: 50px;
+	margin-right: 20px;
 	}
 .VideoContentRight {
-	position: relative;
-	left: 10px;
-	top: 0px;
+/* This is actually ending up on the left. */
+	float:left;
+	width:400px;
 	}
