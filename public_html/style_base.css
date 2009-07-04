@@ -38,19 +38,17 @@ body.BrownPage {
 	font-size: 1.3em;}
 .toc {
 	float: left;
-	margin-left: 32px;
-	margin-right:32px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 27px;
+	margin-right: 27px;
 	margin-bottom: 30px;
 	font-size: 1em;}
 #CurrentTocBrownPage {
 	background-color: #975403;
-	padding-left: 5px;
-	padding-right: 5px;
 	color: white;}
 #CurrentTocBluePage {
 	background-color: #263D69;
-	padding-left: 5px;
-	padding-right: 5px;
 	color: white;}
 .wrapper {
 	clear: both;
