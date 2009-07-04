@@ -2,8 +2,8 @@
 .BluePage a:link {text-decoration: none; color: #263D69;}
 .BluePage a:visited {text-decoration: none; color: #263D69;}
 .BluePage a:focus {text-decoration: none; color: #263D69;}
-.BluePage a:hover {text-decoration: underline; color: #263D69;}
-.BluePage a:active {text-decoration: none; color: #263D69;}
+.BluePage a.toc:hover {text-decoration: none; color: #263D69; background-color: #dddddd;}
+.BluePage a.toc:active {text-decoration: none; color: #263D69; background-color: #dddddd;}
 .BluePage {
 	font-family:Verdana,sans-serif;
 	background-color: #8F99AA;}
@@ -18,8 +18,8 @@ body.BluePage {
 .BrownPage a:link {text-decoration: none; color: #975403;}
 .BrownPage a:visited {text-decoration: none; color: #975403;}
 .BrownPage a:focus {text-decoration: none; color: #975403;}
-.BrownPage a:hover {text-decoration: underline; color: #975403;}
-.BrownPage a:active {text-decoration: none; color: #975403;}
+.BrownPage a.toc:hover {text-decoration: none; color: #975403; background-color: #dddddd;}
+.BrownPage a.toc:active {text-decoration: none; color: #975403; background-color: #dddddd;}
 .BrownPage {
 	font-family:Verdana,sans-serif;
 	background-color: #DBC8AE;}
