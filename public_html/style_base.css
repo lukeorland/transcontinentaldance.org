@@ -82,18 +82,26 @@ p.DonatePage {
 	font-size: 0.7em;
 	text-align: center;}
 
-#IndexPageTitle {
-	margin-top: 12px;
-	margin-left: 5px;
-	color: #975403;
+.IndexPageTitle {
+	margin-top: 20px;
+	margin-left: 35px;
+	margin-bottom: 25px;
+	color: #fd618d;
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 1.6em;}
+
+a.IndexPageTOC:link {text-decoration: none; color: white; background-color: black}
+a.IndexPageTOC:visited {text-decoration: none; color: white; background-color: black}
+a.IndexPageTOC:focus {text-decoration: none; color: white; background-color: black}
+a.IndexPageTOC:hover {text-decoration: none; color: black; background-color: #dddddd;}
+a.IndexPageTOC:active {text-decoration: none; color: black; background-color: #dddddd;}
+
+.IndexPageTOC {
+	margin-top: 10px;
+	padding: 1px  5px  1px  5px;
 	font-family: Helvetica, sans-serif;
 	font-size: 1.1em;}
-#IndexPageTOC {
-	margin-top: 10px;
-	margin-left: 5px;
-	background-color: transparent;
-	font-family: Helvetica, sans-serif;
-	font-size: 1em;}
 	
 /* Rounded Color Styles */
 .roundedcornr_box_Brown {
